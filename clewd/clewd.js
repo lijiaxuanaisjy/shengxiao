@@ -2,7 +2,7 @@
  * SET YOUR COOKIE HERE
  * @preserve
  */
-const Cookies = '';
+const Cookies = 'example';
 
 /**
 ## EXPERIMENTAL
